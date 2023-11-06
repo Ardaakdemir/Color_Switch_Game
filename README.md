@@ -20,7 +20,11 @@ Space,W or Up Arrow button for Jumping, Thats all !
 
 ![Ingame](https://github.com/Ardaakdemir/Color_Switch_Game/blob/main/Screenshots/Ingame.png)
 
+# If you want to support me :) https://www.buymeacoffee.com/Kregai
+
 ![Ingame2](https://github.com/Ardaakdemir/Color_Switch_Game/blob/main/Screenshots/Ingame2.png)
 
 ![Restart Screen](https://github.com/Ardaakdemir/Color_Switch_Game/blob/main/Screenshots/Restart.png)
+
+# If you want to support me :) https://www.buymeacoffee.com/Kregai
 
