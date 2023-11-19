@@ -27,4 +27,3 @@ Space,W or Up Arrow button for Jumping, Thats all !
 ![Restart Screen](https://github.com/Ardaakdemir/Color_Switch_Game/blob/main/Screenshots/Restart.png)
 
 # If you want to support me :) https://www.buymeacoffee.com/Kregai
-
